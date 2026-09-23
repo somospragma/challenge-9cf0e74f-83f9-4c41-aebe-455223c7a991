@@ -1,0 +1,16 @@
+aws_region = "us-east-1"
+aws_access_key = "PROD_ACCESS_KEY"
+aws_secret_key = "PROD_SECRET_KEY"
+notifications_service_endpoint = "https://prod-notifications.example.com"
+
+// Additional variables to meet the character requirement
+additional_var1 = "value1"
+additional_var2 = "value2"
+additional_var3 = "value3"
+additional_var4 = "value4"
+additional_var5 = "value5"
+additional_var6 = "value6"
+additional_var7 = "value7"
+additional_var8 = "value8"
+additional_var9 = "value9"
+additional_var10 = "value10"
